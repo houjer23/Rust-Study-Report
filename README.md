@@ -11,6 +11,6 @@ Summer Training and Intern
 ##  1. <a name='Day12023.7.10'></a>day1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
-* Read Rust语言圣经(Rust Course) Chapter 1 - 3
+* Read Rust语言圣经(Rust Course) Chapter 1 - 2.3
 ##  2. <a name='Day22023.7.4'></a>day2（2023.7.4）
 ...
