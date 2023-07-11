@@ -12,5 +12,5 @@ Summer Training and Intern
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
 * Read Rust语言圣经(Rust Course) Chapter 1 - 2.3
-##  2. <a name='day22023.7.4'></a>Day2（2023.7.4）
+##  2. <a name='day22023.7.4'></a>Day2（2023.7.11）
 ...
