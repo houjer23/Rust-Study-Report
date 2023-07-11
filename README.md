@@ -13,4 +13,6 @@ Summer Training and Intern
 * Discuss the test materials and wrong answers, finish unfinished questions
 * Read [Rust语言圣经(Rust Course)](https://course.rs/about-book.html) Chapter 1 - 2.3
 ##  2. <a name='day22023.7.4'></a>Day2（2023.7.11）
-...
+* Read [Rust语言圣经(Rust Course)](https://course.rs/about-book.html) Chapter 2.4 - 2.9
+* Finish [Rust Rustlings Training](https://github.com/LearningOS/rust-rustlings-houjer23) Question 1 - 45
+
