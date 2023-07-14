@@ -4,7 +4,7 @@ Summer Training and Intern
 1. [Day 1（2023.7.10）](#day12023.7.10)
 2. [Day 2（2023.7.11）](#day22023.7.11)
 3. [Day 3（2023.7.12）](#day22023.7.12)
-4. [Day 3（2023.7.13）](#day22023.7.13)
+4. [Day 4（2023.7.13）](#day22023.7.13)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -20,6 +20,7 @@ Summer Training and Intern
 ##  3. <a name='day22023.7.12'></a>Day 3（2023.7.12）
 * Finish [Rust语言圣经(Rust Course)](https://course.rs/about-book.html) Chapter 2
 * Finish [Rust Rustlings Training](https://github.com/LearningOS/rust-rustlings-houjer23) Question 46-78
-##  3. <a name='day22023.7.13'></a>Day 4（2023.7.13）
+##  4. <a name='day22023.7.13'></a>Day 4（2023.7.13）
 * Finish [Rust Rustlings Training](https://github.com/LearningOS/rust-rustlings-houjer23)
 * Study required materials needed for Rust Training on [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+* Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 1.1 - 2.3
