@@ -23,4 +23,4 @@ Summer Training and Intern
 ##  4. <a name='day22023.7.13'></a>Day 4（2023.7.13）
 * Finish [Rust Rustlings Training](https://github.com/LearningOS/rust-rustlings-houjer23)
 * Study required materials needed for Rust Training on [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
-* Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 1.1 - 2.3
+* Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 1.1 - 2.1.4
