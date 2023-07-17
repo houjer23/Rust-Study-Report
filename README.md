@@ -25,6 +25,6 @@ Summer Training and Intern
 * Finish [Rust Rustlings Training](https://github.com/LearningOS/rust-rustlings-houjer23)
 * Study required materials needed for Rust Training on [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
 * Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 1.1 - 2.1.4
-##  5. <a name='day22023.7.14'></a>Day 4（2023.7.14）
+##  5. <a name='day22023.7.14'></a>Day 5（2023.7.14）
 * Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 2.1.5 - 3.1
 * Configue Lichee Pi 4A so that it is connected to the monitor and can run Rust
