@@ -31,4 +31,4 @@ Summer Training and Intern
 * Configue Lichee Pi 4A so that it is connected to the monitor and can run Rust
 ##  6. <a name='day22023.7.17'></a>Day 6（2023.7.17）
 * Read [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 3.2 - 4.2
-* Answer Chapter 1 - 3 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8)
+* Answer Chapter 1 - 3 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/CSAPP/课后练习.markdown)
