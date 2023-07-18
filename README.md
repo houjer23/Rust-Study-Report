@@ -7,11 +7,6 @@ Summer Training and Intern
 [Day 4（2023.7.13）](#day22023.7.13)<br>
 [Day 5（2023.7.14）](#day22023.7.14)<br>
 [Day 6（2023.7.17）](#day22023.7.17)
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
