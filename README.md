@@ -7,7 +7,8 @@ Summer Training and Intern
 [Day 4（2023.7.13）](#day22023.7.13)<br>
 [Day 5（2023.7.14）](#day22023.7.14)<br>
 [Day 6（2023.7.17）](#day22023.7.17)<br>
-[Day 7（2023.7.18）](#day22023.7.18)
+[Day 7（2023.7.18）](#day22023.7.18)<br>
+[Day 8（2023.7.19）](#day22023.7.19)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -32,3 +33,6 @@ Summer Training and Intern
 * Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 4
 * Attend National Innovation Center of Intelligence and Connected Vehicles meeting on designing a software for automotive program development
 * Visit Tsinghua University
+##  <a name='day22023.7.19'></a>Day 8（2023.7.19）
+* Answer Chapter 4 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/CSAPP/课后练习.markdown)
+
