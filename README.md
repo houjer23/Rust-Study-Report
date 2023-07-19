@@ -34,4 +34,5 @@ Summer Training and Intern
 * Attend National Innovation Center of Intelligence and Connected Vehicles meeting on designing a software for automotive program development
 * Visit Tsinghua University
 ##  <a name='day22023.7.19'></a>Day 8（2023.7.19）
-* Answer Chapter 4 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
+* Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 5 - 6
+* Answer Chapter 4 - 6 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
