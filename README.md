@@ -9,6 +9,7 @@ Summer Training and Intern
 [Day 6（2023.7.17）](#day22023.7.17)<br>
 [Day 7（2023.7.18）](#day22023.7.18)<br>
 [Day 8（2023.7.19）](#day22023.7.19)<br>
+[Day 9（2023.7.20）](#day22023.7.20)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -36,3 +37,6 @@ Summer Training and Intern
 ##  <a name='day22023.7.19'></a>Day 8（2023.7.19）
 * Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html) Chapter 5 - 7.2
 * Answer Chapter 4 - 6 [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
+##  <a name='day22023.7.20'></a>Day 9（2023.7.20）
+* Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html)
+* Finish answering [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
