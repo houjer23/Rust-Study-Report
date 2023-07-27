@@ -10,6 +10,7 @@ Summer Training and Intern
 [Day 7（2023.7.18）](#day22023.7.18)<br>
 [Day 8（2023.7.19）](#day22023.7.19)<br>
 [Day 9（2023.7.20）](#day22023.7.20)<br>
+[Day 10（2023.7.26）](#day22023.7.26)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -40,3 +41,6 @@ Summer Training and Intern
 ##  <a name='day22023.7.20'></a>Day 9（2023.7.20）
 * Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html)
 * Finish answering [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
+##  <a name='day22023.7.26'></a>Day 10（2023.7.26）
+* Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) step 0
+* Finish reading [OSTEP] (https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 1 - 5
