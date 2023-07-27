@@ -45,7 +45,7 @@ Summer Training and Intern
 ##  <a name='day22023.7.26'></a>Day 10（2023.7.26）
 * Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) step 0
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 1 - 5
-##  <a name='day22023.7.26'></a>Day 10（2023.7.26）
+##  <a name='day22023.7.27'></a>Day 11（2023.7.27）
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 1 - 2
 * Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) step 1
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 6
