@@ -42,5 +42,5 @@ Summer Training and Intern
 * Finish reading [CSAPP](http://csapp.cs.cmu.edu/2e/samples.html)
 * Finish answering [CSAPP questions](https://github.com/orgs/LearningOS/discussions/8) on [github](https://github.com/houjer23/Rust-Study-Report/blob/main/Computer%20Systems%3A%20A%20Programmer's%20Perspective%20(CSAPP)/课后练习.markdown)
 ##  <a name='day22023.7.26'></a>Day 10（2023.7.26）
-* Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) step 0
+* Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) chapter 0
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 1 - 5
