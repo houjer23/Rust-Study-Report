@@ -12,6 +12,7 @@ Summer Training and Intern
 [Day 9（2023.7.20）](#day22023.7.20)<br>
 [Day 10（2023.7.26）](#day22023.7.26)<br>
 [Day 11（2023.7.27）](#day22023.7.27)<br>
+[Day 12（2023.7.28）](#day22023.7.28)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -49,3 +50,6 @@ Summer Training and Intern
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 1 - 2
 * Finish [RTB](http://csapp.cs.cmu.edu/2e/samples.html](https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html)https://learningos.github.io/rCore-Tutorial-Guide-2023S/0setup-devel-env.html) step 1
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 6 - 8.2
+##  <a name='day22023.7.28'></a>Day 12（2023.7.28）
+* Report and update my process with Professor Chen
+* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 8 - 9
