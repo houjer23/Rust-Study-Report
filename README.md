@@ -14,6 +14,7 @@ Summer Training and Intern
 [Day 11（2023.7.27）](#day22023.7.27)<br>
 [Day 12（2023.7.28）](#day22023.7.28)<br>
 [Day 13（2023.7.31）](#day22023.7.13)<br>
+[Day 14（2023.8.1）](#day22023.8.1)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -57,3 +58,5 @@ Summer Training and Intern
 ##  <a name='day22023.7.31'></a>Day 13（2023.7.31）
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 10 - 11
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 3
+##  <a name='day22023.8.1'></a>Day 14（2023.8.1）
+* Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 4 + 7
