@@ -15,6 +15,7 @@ Summer Training and Intern
 [Day 12（2023.7.28）](#day22023.7.28)<br>
 [Day 13（2023.7.31）](#day22023.7.13)<br>
 [Day 14（2023.8.1）](#day22023.8.1)<br>
+[Day 15（2023.8.2）](#day22023.8.2)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -60,3 +61,5 @@ Summer Training and Intern
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 3
 ##  <a name='day22023.8.1'></a>Day 14（2023.8.1）
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 4 + 7
+##  <a name='day22023.8.2'></a>Day 15（2023.8.2）
+* Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 8
