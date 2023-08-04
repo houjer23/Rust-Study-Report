@@ -70,3 +70,5 @@ Summer Training and Intern
 * Finish reading [RTB chapter 3](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter3/index.html)
 ##  <a name='day22023.8.4'></a>Day 17（2023.8.4）
 * Finish [RTB Lab 0](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter3/index.html) on [github](https://github.com/LearningOS/lab0-0-setup-env-run-os1-houjer23)
+* * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 12 - 13
+
