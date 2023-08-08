@@ -18,6 +18,7 @@ Summer Training and Intern
 [Day 15（2023.8.2）](#day22023.8.2)<br>
 [Day 16（2023.8.3）](#day22023.8.3)<br>
 [Day 17（2023.8.4）](#day22023.8.4)<br>
+[Day 18（2023.8.7）](#day22023.8.7)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -70,5 +71,6 @@ Summer Training and Intern
 * Finish reading [RTB chapter 3](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter3/index.html)
 ##  <a name='day22023.8.4'></a>Day 17（2023.8.4）
 * Finish [RTB Lab 0](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter3/index.html) on [github](https://github.com/LearningOS/lab0-0-setup-env-run-os1-houjer23)
-* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 12 - 13
-
+* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 12
+##  <a name='day22023.8.4'></a>Day 18（2023.8.7）
+* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 13 - 16
