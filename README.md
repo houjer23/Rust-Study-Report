@@ -78,6 +78,6 @@ Summer Training and Intern
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 13 - 15
 ##  <a name='day22023.8.8'></a>Day 19（2023.8.8）
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 16 - 19
-##  <a name='day22023.8.8'></a>Day 19（2023.8.8）
+##  <a name='day22023.8.9'></a>Day 20（2023.8.9）
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 20 - 22
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 5 - 6
