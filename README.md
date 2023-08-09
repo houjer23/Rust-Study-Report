@@ -74,6 +74,6 @@ Summer Training and Intern
 * Finish [RTB Lab 0](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter3/index.html) on [github](https://github.com/LearningOS/lab0-0-setup-env-run-os1-houjer23)
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 12
 ##  <a name='day22023.8.7'></a>Day 18（2023.8.7）
-* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 13 - 16
+* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 13 - 15
 ##  <a name='day22023.8.8'></a>Day 19（2023.8.8）
-* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 17 - 20
+* Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 16 - 19
