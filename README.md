@@ -21,6 +21,7 @@ Summer Training and Intern
 [Day 18（2023.8.7）](#day22023.8.7)<br>
 [Day 19（2023.8.8）](#day22023.8.8)<br>
 [Day 20（2023.8.9）](#day22023.8.9)<br>
+[Day 21（2023.8.10）](#day22023.8.10)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -81,3 +82,5 @@ Summer Training and Intern
 ##  <a name='day22023.8.9'></a>Day 20（2023.8.9）
 * Finish reading [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) chapter 20 - 22
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 5 - 6
+##  <a name='day22023.8.10'></a>Day 21（2023.8.10）
+* Review [CSAPP](https://hansimov.gitbook.io/csapp/part2/ch09-virtual-memory) Chapter 9
