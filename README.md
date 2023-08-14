@@ -85,5 +85,5 @@ Summer Training and Intern
 * Finish reading [操作系统课在线幻灯片](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu?) slide 5 - 6
 ##  <a name='day22023.8.10'></a>Day 21（2023.8.10）
 * Review [CSAPP](https://hansimov.gitbook.io/csapp/part2/ch09-virtual-memory) Chapter 9
-##  <a name='day22023.8.10'></a>Day 22（2023.8.11）
+##  <a name='day22023.8.11'></a>Day 22（2023.8.11）
 * Start reading [RTB chapter 4](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter4/index.html)
