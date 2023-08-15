@@ -23,6 +23,7 @@ Summer Training and Intern
 [Day 20（2023.8.9）](#day22023.8.9)<br>
 [Day 21（2023.8.10）](#day22023.8.10)<br>
 [Day 22（2023.8.11）](#day22023.8.11)<br>
+[Day 23（2023.8.14）](#day22023.8.14)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -87,3 +88,6 @@ Summer Training and Intern
 * Review [CSAPP](https://hansimov.gitbook.io/csapp/part2/ch09-virtual-memory) Chapter 9
 ##  <a name='day22023.8.11'></a>Day 22（2023.8.11）
 * Start reading [RTB chapter 4](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter4/index.html)
+##  <a name='day22023.8.14'></a>Day 23（2023.8.14）
+* Continue reading [RTB chapter 4](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter4/index.html)
+* Build [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
