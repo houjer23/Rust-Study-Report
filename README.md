@@ -24,6 +24,7 @@ Summer Training and Intern
 [Day 21（2023.8.10）](#day22023.8.10)<br>
 [Day 22（2023.8.11）](#day22023.8.11)<br>
 [Day 23（2023.8.14）](#day22023.8.14)<br>
+[Day 24（2023.8.15）](#day22023.8.15)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -91,3 +92,8 @@ Summer Training and Intern
 ##  <a name='day22023.8.14'></a>Day 23（2023.8.14）
 * Continue reading [RTB chapter 4](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter4/index.html)
 * Build [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
+##  <a name='day22023.8.15'></a>Day 24（2023.8.15）
+* Finish reading [RTB chapter 4](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter4/index.html)
+* Finish building [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
+* Tested multiply features provides by Rosmaster X3 Car
+* Successfully allowed the other model to fucntion
