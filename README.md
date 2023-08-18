@@ -97,3 +97,5 @@ Summer Training and Intern
 * Finish building [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
 * Tested multiply features provides by Rosmaster X3 Car
 * Successfully allowed the other model to fucntion
+##  <a name='day22023.8.16'></a>Day 25（2023.8.16）
+* Configuring and debugging [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
