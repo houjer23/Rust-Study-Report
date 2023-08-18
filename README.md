@@ -25,6 +25,7 @@ Summer Training and Intern
 [Day 22（2023.8.11）](#day22023.8.11)<br>
 [Day 23（2023.8.14）](#day22023.8.14)<br>
 [Day 24（2023.8.15）](#day22023.8.15)<br>
+[Day 25（2023.8.16）](#day22023.8.16)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
