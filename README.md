@@ -26,6 +26,7 @@ Summer Training and Intern
 [Day 23（2023.8.14）](#day22023.8.14)<br>
 [Day 24（2023.8.15）](#day22023.8.15)<br>
 [Day 25（2023.8.16）](#day22023.8.16)<br>
+[Day 26（2023.8.21）](#day22023.8.21)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -100,3 +101,6 @@ Summer Training and Intern
 * Successfully allowed the other model to fucntion
 ##  <a name='day22023.8.16'></a>Day 25（2023.8.16）
 * Configuring and debugging [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
+##  <a name='day22023.8.16'></a>Day 25（2023.8.16）
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) SD card image burn to allow the other car to function at the same time
+* Produced PowerPoint for showcase tonight
