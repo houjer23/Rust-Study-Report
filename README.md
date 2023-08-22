@@ -101,6 +101,7 @@ Summer Training and Intern
 * Successfully allowed the other model to fucntion
 ##  <a name='day22023.8.16'></a>Day 25（2023.8.16）
 * Configuring and debugging [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3)
-##  <a name='day22023.8.16'></a>Day 25（2023.8.16）
+##  <a name='day22023.8.16'></a>Day 25（2023.8.21）
 * [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) SD card image burn to allow the other car to function at the same time
 * Produced PowerPoint for showcase tonight
+* Successfully excecuted vioce module to control activities and movement of the smart car
