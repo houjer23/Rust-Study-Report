@@ -105,3 +105,5 @@ Summer Training and Intern
 * [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) SD card image burn to allow the other car to function at the same time
 * Produced PowerPoint for showcase tonight
 * Successfully excecuted vioce module to control activities and movement of the smart car
+##  <a name='day22023.8.22'></a>Day 27（2023.8.22）
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) implement the ability to use Lidar to detect the surroundings and form a graph of the sourroundings
