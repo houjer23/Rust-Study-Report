@@ -28,6 +28,9 @@ Summer Training and Intern
 [Day 25（2023.8.16）](#day22023.8.16)<br>
 [Day 26（2023.8.21）](#day22023.8.21)<br>
 [Day 27（2023.8.22）](#day22023.8.22)<br>
+[Day 28（2023.8.23）](#day22023.8.23)<br>
+[Day 29（2023.8.24）](#day22023.8.24)<br>
+[Day 30（2023.8.25）](#day22023.8.25)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -108,3 +111,11 @@ Summer Training and Intern
 * Successfully excecuted vioce module to control activities and movement of the smart car
 ##  <a name='day22023.8.22'></a>Day 27（2023.8.22）
 * [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) implement the ability to use Lidar to detect the surroundings and form a graph of the sourroundings
+##  <a name='day22023.8.23'></a>Day 28（2023.8.23）
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) Remote connection using Python on laptop to allow the buzzer to work
+##  <a name='day22023.8.24'></a>Day 29（2023.8.24）
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) continue working on the remote connection with Python
+* Attend Risc-V Beijing Summit Meeting
+##  <a name='day22023.8.25'></a>Day 30（2023.8.25）
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) successfully using to remote connection written in Python to control the car to move when detecting red and stop when not detecting red
+* Attempting to use Rust to implement the same feature described above, while there is a huge delay to detect and move using Rust
