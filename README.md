@@ -1,5 +1,5 @@
 # Rust-Study-Report
-### Summer Training and Intern<br>
+## Summer Training and Intern<br>
 ### In the past 30 days of study and work, I have made significant progress and accumulated a wealth of experience.
 * Computer Science Overview: I learned and participated in the Computer Science Overview exam, revisiting and studying the fundamental concepts of computer science.
 * Rust Programming: I delved deep into Rust programming, including reading "The Rust Programming Language" (Rust Book) and completing Rustlings training exercises.
