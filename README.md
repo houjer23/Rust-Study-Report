@@ -1,6 +1,13 @@
 # Rust-Study-Report
 ### Summer Training and Intern<br>
-
+### In the past 30 days of study and work, I have made significant progress and accumulated a wealth of experience.
+* Computer Science Overview: I learned and participated in the Computer Science Overview exam, revisiting and studying the fundamental concepts of computer science.
+* Rust Programming: I delved deep into Rust programming, including reading "The Rust Programming Language" (Rust Book) and completing Rustlings training exercises.
+* Understanding Computer Systems (CSAPP): I began my journey into understanding computer systems through the "Computer Systems: A Programmer's Perspective" (CSAPP) book, covering low-level principles such as machine-level programming, memory management, and operating systems. I read multiple chapters and answered related questions.
+* Operating Systems Study: I dived into multiple chapters of "Operating Systems: Three Easy Pieces" (OSTEP), covering topics like process management, memory management, and file systems. I also learned and completed tasks in rCore-Tutorial-Book OSlab0-lab2.
+* Rosmaster X3 Car Project: I successfully built the Rosmaster X3 Car and conducted various functional tests. I implemented features like remote control, object detection and tracking, and environment detection using a LiDAR sensor. This project combined both hardware and software aspects, providing valuable hands-on experience.
+* Participation in Conferences: I attended a conference on smart connected vehicle software development, which allowed me to interact with domain experts and stay updated on industry trends. I also participated in the Risc-V Beijing Summit, providing insights into the latest developments in Risc-V architecture.
+### In the future, both in my academic and professional career, I plan to continue my in-depth study and research in fields such as computer science, operating systems, and embedded systems. I also intend to engage in more practical projects to further accumulate hands-on experience. Overall, these 30 days of learning and working have laid a solid foundation for my future development, and I look forward to achieving more in these domains.
 ### 在这30天的学习和工作过程中，我取得了重要的进展，并积累了丰富的经验。
 * 计算机科学概览： 学习并参加了计算机科学概览的考试，对计算机科学的基本概念进行了复习和学习。
 * Rust编程： 我深入学习了Rust编程语言，包括阅读《Rust语言圣经》和完成了Rustlings培训的问题。
@@ -9,7 +16,7 @@
 * Rosmaster X3 Car项目： 我成功搭建了Rosmaster X3 Car，并进行了多次功能测试。我实现了远程控制、物体检测跟踪以及激光雷达环境检测等功能，这是一个结合硬件和软件的有趣项目。
 * 智能互联汽车会议： 我参加了关于智能互联汽车软件开发的会议，这为我提供了与领域专家互动的机会，了解了行业最新趋势。
 * Risc-V北京峰会： 我参加了Risc-V北京峰会，这是一个学术交流的平台，让我能够了解到Risc-V架构的最新发展。
-### 在接下来的学术和职业生涯中，我打算继续深入学习和研究计算机科学、操作系统和嵌入式系统等领域。我还计划继续参与实际项目，积累更多的实践经验。总的来说，这30天的学习和工作经历为我未来的发展奠定了坚实的基础，我期待着在这些领域取得更多的成就。<br>
+### 在接下来的学术和职业生涯中，我打算继续深入学习和研究计算机科学、操作系统和嵌入式系统等领域。我还计划继续参与实际项目，积累更多的实践经验。总的来说，这30天的学习和工作经历为我未来的发展奠定了坚实的基础，我期待着在这些领域取得更多的成就。
 **Daily Studying Contents**<br>
 [Day 1（2023.7.10）](#day12023.7.10)<br>
 [Day 2（2023.7.11）](#day22023.7.11)<br>
