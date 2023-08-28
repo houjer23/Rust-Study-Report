@@ -1,7 +1,7 @@
 # Rust-Study-Report
 ## Summer Training and Intern<br>
 ### In the past 30 days of study and work, I have made significant progress and accumulated a wealth of experience.
-* Computer Science Overview: I learned and participated in the Computer Science Overview exam, revisiting and studying the fundamental concepts of computer science.
+* Computer Science Overview: I learned and participated in the exam based on _Computer Science An Overview 11th Edition_, revisiting and studying the fundamental concepts of computer science.
 * Rust Programming: I delved deep into Rust programming, including reading "The Rust Programming Language" (Rust Book) and completing Rustlings training exercises.
 * Understanding Computer Systems (CSAPP): I began my journey into understanding computer systems through the "Computer Systems: A Programmer's Perspective" (CSAPP) book, covering low-level principles such as machine-level programming, memory management, and operating systems. I read multiple chapters and answered related questions.
 * Operating Systems Study: I dived into multiple chapters of "Operating Systems: Three Easy Pieces" (OSTEP), covering topics like process management, memory management, and file systems. I also learned and completed tasks in rCore-Tutorial-Book OSlab0-lab2.
