@@ -48,6 +48,7 @@
 [Day 28（2023.8.23）](#day22023.8.23)<br>
 [Day 29（2023.8.24）](#day22023.8.24)<br>
 [Day 30（2023.8.25）](#day22023.8.25)<br>
+[Day 31（2023.8.28）](#day22023.8.28)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -134,5 +135,8 @@
 * [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) continue working on the remote connection with Python
 * Attend Risc-V Beijing Summit Meeting
 ##  <a name='day22023.8.25'></a>Day 30（2023.8.25）
-* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) successfully using to remote connection written in Python to control the car to move when detecting red and stop when not detecting red
+* [Rosmaster X3 Car](https://www.yahboom.com/study/ROSMASTER-X3#xuanzhon_3) successfully implementing to remote connection written in Python to control the car to move when detecting red and stop when not detecting red
 * Attempting to use Rust to implement the same feature described above, while there is a huge delay to detect and move using Rust
+##  <a name='day22023.8.28'></a>Day 31（2023.8.28）
+* Revised the code for color tracking and following to allow the smart robot to run the program when initiated
+* Trying to debug the problem of showing version = -1 when starting up the robot, not allowing the robot to function properly
