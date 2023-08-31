@@ -49,6 +49,8 @@
 [Day 29（2023.8.24）](#day22023.8.24)<br>
 [Day 30（2023.8.25）](#day22023.8.25)<br>
 [Day 31（2023.8.28）](#day22023.8.28)<br>
+[Day 32（2023.8.29）](#day22023.8.29)<br>
+[Day 33（2023.8.30）](#day22023.8.30)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -140,3 +142,12 @@
 ##  <a name='day22023.8.28'></a>Day 31（2023.8.28）
 * Revised the code for color tracking and following to allow the smart robot to run the program when initiated
 * Trying to debug the problem of showing version = -1 when starting up the robot, not allowing the robot to function properly
+##  <a name='day22023.8.29'></a>Day 32（2023.8.29）
+* Understanding why does version = -1 problem occur
+    * Looking at the source code of STM32 to figure out whether the problem occurs with STM32
+    * We are able to pass message from local computer to STM32, so STM32 functions properly
+    * Successfully connecting to the raspberry pi through VNC Viewer and sending message to STM32 directly from raspberry pi without ROS
+    * This indicates that the problem lies with raspberry pi sending message through ROS
+##  <a name='day22023.8.30'></a>Day 33（2023.8.30）
+* [Runnning ArceOS in Qemu](https://os2edu.cn/ldd-in-rust-doc/chapter_1.0.html) and initate web connection in ArceOS
+* Successfully sent message from ArceOS running in Qemu using TCP Stream to Raspberry Pi to control smart robot
