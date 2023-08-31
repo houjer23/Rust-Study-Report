@@ -150,4 +150,4 @@
     * This indicates that the problem lies with raspberry pi sending message through ROS
 ##  <a name='day22023.8.30'></a>Day 33（2023.8.30）
 * [Runnning ArceOS in Qemu](https://os2edu.cn/ldd-in-rust-doc/chapter_1.0.html) and initate web connection in ArceOS
-* Successfully sent message from ArceOS running in Qemu using TCP Stream to Raspberry Pi to control smart robot
+* Successfully sent message from [ArceOS](https://github.com/rcore-os/arceos) running in Qemu using TCP Stream to Raspberry Pi to control smart robot
