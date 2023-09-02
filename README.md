@@ -142,6 +142,7 @@
 ##  <a name='day22023.8.28'></a>Day 31（2023.8.28）
 * Revised the code for color tracking and following to allow the smart robot to run the program when initiated
 * Trying to debug the problem of showing version = -1 when starting up the robot, not allowing the robot to function properly
+* Reading [RTB chapter 5](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter5/index.html)
 ##  <a name='day22023.8.29'></a>Day 32（2023.8.29）
 * Understanding why does version = -1 problem occur
     * Looking at the source code of STM32 to figure out whether the problem occurs with STM32
@@ -151,3 +152,4 @@
 ##  <a name='day22023.8.30'></a>Day 33（2023.8.30）
 * [Runnning ArceOS in Qemu](https://os2edu.cn/ldd-in-rust-doc/chapter_1.0.html) and initate web connection in ArceOS
 * Successfully sent message from [ArceOS](https://github.com/rcore-os/arceos) running in Qemu using TCP Stream to Raspberry Pi to control smart robot
+* Continue Reading [RTB chapter 5](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter5/index.html)
