@@ -154,6 +154,7 @@
 * [Runnning ArceOS in Qemu](https://os2edu.cn/ldd-in-rust-doc/chapter_1.0.html) and initate web connection in ArceOS
 * Successfully sent message from [ArceOS](https://github.com/rcore-os/arceos) running in Qemu using TCP Stream to Raspberry Pi to control smart robot
 * Continue Reading [RTB chapter 5](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter5/index.html)
-##  <a name='day22023.8.31'></a>Day 33（2023.8.31）
+##  <a name='day22023.8.34'></a>Day 33（2023.8.31）
 * Trying to send message two messages from ArceOS in QEMU with several seconds of delay in between
+   * Using Wireshark to capture packages when sending a message
 * Trying to make the input camera images to ArceOS in QEMU
