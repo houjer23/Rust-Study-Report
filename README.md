@@ -51,6 +51,7 @@
 [Day 31（2023.8.28）](#day22023.8.28)<br>
 [Day 32（2023.8.29）](#day22023.8.29)<br>
 [Day 33（2023.8.30）](#day22023.8.30)<br>
+[Day 34（2023.8.31）](#day22023.8.31)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -153,3 +154,6 @@
 * [Runnning ArceOS in Qemu](https://os2edu.cn/ldd-in-rust-doc/chapter_1.0.html) and initate web connection in ArceOS
 * Successfully sent message from [ArceOS](https://github.com/rcore-os/arceos) running in Qemu using TCP Stream to Raspberry Pi to control smart robot
 * Continue Reading [RTB chapter 5](https://learningos.github.io/rCore-Tutorial-Book-v3/chapter5/index.html)
+##  <a name='day22023.8.31'></a>Day 33（2023.8.31）
+* Trying to send message two messages from ArceOS in QEMU with several seconds of delay in between
+* Trying to make the input camera images to ArceOS in QEMU
