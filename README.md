@@ -52,6 +52,7 @@
 [Day 32（2023.8.29）](#day22023.8.29)<br>
 [Day 33（2023.8.30）](#day22023.8.30)<br>
 [Day 34（2023.8.31）](#day22023.8.31)<br>
+[Day 35（2023.9.6）](#day22023.9.6)<br>
 ##  <a name='day12023.7.10'></a>Day 1（2023.7.10）
 * Taking test on _Computer Science An Overview 11th Edition_
 * Discuss the test materials and wrong answers, finish unfinished questions
@@ -158,3 +159,7 @@
 * Trying to send message two messages from ArceOS in QEMU with several seconds of delay in between
    * Using Wireshark to capture packages when sending a message
 * Trying to make the input camera images to ArceOS in QEMU
+##  <a name='day22023.9.6'></a>Day 35（2023.9.6）
+* Install ArceOS on Raspberry Pi following [this guild](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+* Attempting to run shell on Rasberry Pi with ArceOS, but file system needs to be completed in order to run shell on ArceOS
+* Changing the plan to read and write on ArceOS
