@@ -166,3 +166,4 @@
 * Changing the plan to read and write on ArceOS
 ##  <a name='day22023.9.7'></a>Day 36（2023.9.7）
 * Successfully ran c programs with ArceOS, sovled compiling error using [musl cross](https://github.com/FiloSottile/homebrew-musl-cross/blob/master/README.md)
+* Read code on [ArceOS about UART](https://github.com/rcore-os/arceos/tree/main/crates/arm_pl011) and write a way to send message from UART
